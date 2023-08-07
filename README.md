@@ -4,6 +4,8 @@ This will be a crash course into C++ basics so that you can get started in VEXco
 Some aspects of C++ will be skipped as I do not think they are relevant to get started in VEXcode text.
 This crash course will make use of public/free videos with a variety of corresponding assignments.
 
+Above are a couple of PDF files named Section1ProblemSet, Section2ProblemSet, and Section3ProblemSet. As the name of each of these files implies, each PDF holds a bunch of short programming problems that involve topics relating to the specified section. For example, Section1ProblemSet will have short problems relating to topics in Section 1, which include variables, input and output, and arithmetic. You will also see a set of folders named Section1Solutions, Section2Solutions, and Section3Solutions. These folders hold the answer code for each individual problem. The solution included for each problem is just one of many solutions, meaning it is possible for your program to look different from the solution and still work properly. In the course below, I will specify which short problems you have to complete for each section. Problems not listed down below that are in a problem set PDF are there for extra practice. There will be video walkthroughs for some of these listed problems in case you have no clue where to get started.
+
 Click [HERE]() to get started installing the C++ extension to VScode. 
 
 Click [HERE](https://www.youtube.com/watch?v=ckbfOdMhZls&list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3&index=2) to get a basic understanding of the programming stucture in C++.
@@ -31,6 +33,13 @@ After you have watched both of these videos, continue with the course down below
 1. [C++ Crash Course | Arithmetic Pt2 | Video 4 by Me](https://youtu.be/8Y-RdVTyuHc)
 1. [Learn C++ With Me #5 - Arithmetic Operators by Tech With Tim](https://www.youtube.com/watch?v=CWtiqVQp8uk)
 1. [Learn Programming with C++ - Modulus Operator by Velcode](https://www.youtube.com/watch?v=oN_3fN3KMRA&list=PLkjbuaHoEQvi41bJqe4GjsDLSTaNKkvn2&index=22)
+
+
+## Problems to Complete from Section1ProblemSet
+
+Complete problems 1 - 12. If you get stuck, checkout the corresponding youtube videos over these problems.
+
+Problem 29 is a challenge problem. Follow along with the video to gain insight into problem solving methods.
 
 
 ## Additional Resources Section 1
@@ -71,6 +80,14 @@ These are apart of the same series of videos
 1. [C++ FOR BEGINNERS (2020) - What is while loop, What is infinite loop PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=qGKCnTq8CqQ)
 1. [C++ FOR BEGINNERS (2020) - What is while loop, How to count digits of a number PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=jWISn6pk-XU)
 1. [C++ FOR BEGINNERS (2020) What is while loop, How to reverse digits of a number PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=bVBJoxrhgEM)
+
+
+## Problems to Complete from Section2ProblemSet
+
+Complete problems 1 - 5, 8, 10, 11, 13 - 16, 18 - 21. If you get stuck, checkout the corresponding youtube videos over these problems.
+
+Problem 22 is a challenge problem. Follow along with the video to gain insight into problem solving methods.
+
 
 ## Additional Resources Section 2
 
@@ -114,6 +131,12 @@ These are apart of the same series of videos
 1. [C++ FUNCTIONS (2020) - Functions return statement, How to check prime number PROGRAMMING TUTORIAL by CodingBeauty](https://www.youtube.com/watch?v=WFcw9Vfs1WU)
 1. [C++ FUNCTIONS (2020) - What is function overloading? PROGRAMMING TUTORIAL by CodingBeauty](https://youtu.be/5OUttXvf6hw)
 
+
+## Problems to Complete from Section3ProblemSet
+
+Complete problems 1 - 9, 11 - 15, 16 - 18, and 20. If you get stuck, checkout the corresponding youtube videos over these problems.
+
+Problem 25 is a challenge problem. Follow along with the video to gain insight into problem solving methods.
 
 ## Additional Resources Section 3
 
