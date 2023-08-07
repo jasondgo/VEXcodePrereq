@@ -16,23 +16,23 @@ After you have watched both of these videos, continue with the course down below
 
 1. [C++ Crash Course | Variables | Video 1 by Me]()
 1. [Data Types and Variables by Tech With Tim](https://www.youtube.com/watch?v=zgutFVxOlTY)
-- Reiterates topics I covered and even more.
+* Reiterates topics I covered and even more.
 
 
 ## Standard Input & Output
 
-2. [C++ Crash Course | Input / Output | Video 2 by Me](https://youtu.be/aGqZtdxTRxE)
-2. [C++ Input and Output by Shmeowlex](https://www.youtube.com/watch?v=42n9YyKYJMo)
-- Reiterates topics covered in video 1. If my video made complete sense to you, then this may not be a necessary watch.
+1. [C++ Crash Course | Input / Output | Video 2 by Me](https://youtu.be/aGqZtdxTRxE)
+1. [C++ Input and Output by Shmeowlex](https://www.youtube.com/watch?v=42n9YyKYJMo)
+* Reiterates topics covered in video 1. If my video made complete sense to you, then this may not be a necessary watch.
 
 ## Arithmetic
 
-3. [C++ Crash Course | Arithmetic Pt1 | Video 3 by Me](https://youtu.be/uxPUqN52OCQ)
-3. [C++ Crash Course | Arithmetic Pt2 | Video 4 by Me](https://youtu.be/8Y-RdVTyuHc)
-3. [Learn C++ With Me #5 - Arithmetic Operators by Tech With Tim](https://www.youtube.com/watch?v=CWtiqVQp8uk)
-- Reiterates topics covered in video 1 & 2. If my video made complete sense to you, then this may not be a necessary watch.
-3. [Learn Programming with C++ - Modulus Operator by Velcode](https://www.youtube.com/watch?v=oN_3fN3KMRA&list=PLkjbuaHoEQvi41bJqe4GjsDLSTaNKkvn2&index=22)
-- Good watch If you are still unsure how modular division works.
+1. [C++ Crash Course | Arithmetic Pt1 | Video 3 by Me](https://youtu.be/uxPUqN52OCQ)
+1. [C++ Crash Course | Arithmetic Pt2 | Video 4 by Me](https://youtu.be/8Y-RdVTyuHc)
+1. [Learn C++ With Me #5 - Arithmetic Operators by Tech With Tim](https://www.youtube.com/watch?v=CWtiqVQp8uk)
+* Reiterates topics covered in video 1 & 2. If my video made complete sense to you, then this may not be a necessary watch.
+1. [Learn Programming with C++ - Modulus Operator by Velcode](https://www.youtube.com/watch?v=oN_3fN3KMRA&list=PLkjbuaHoEQvi41bJqe4GjsDLSTaNKkvn2&index=22)
+* Good watch If you are still unsure how modular division works.
 
 ## Additional Resources Section 1
 
@@ -58,22 +58,22 @@ These are apart of the same series of videos
 # Section 2: If, Else If, Else, Conditionals & While Loops
 
 ## If, Else If, Else,  & Conditionals 
-4. [C++ Crash Course | If Statement & Conditions | Video 5 by Me](https://youtu.be/oQjfKr8WIyY)
-4. [Learn C++ With Me #6 - Comparison Operators by Tech With Tim](https://www.youtube.com/watch?v=taBgBbXRadc)
-- Reiterates topics covered in video 1. If my video made complete sense to you, then this may not be a necessary watch.
-4. [C++ Crash Course | Logical Operators | Video 6 by Me](https://youtu.be/TufHeknHalE)
-4. [C++ Crash Course | Logical Operators Pt2 | Video 7 by Me](https://youtu.be/IdhdU1X43aA)
-4. [Learn C++ With Me #7 - Logical Operators by Tech With Tim](https://www.youtube.com/watch?v=F__aAx-3HOY)
-- Reiterates topics covered in video 3 & 4. If my videos made complete sense to you, then this may not be a necessary watch.
-4. [Learn C++ With Me #8 - If, Else If, Else by Tech With Tim](https://www.youtube.com/watch?v=Zkr0aAdD1Ww)
-- Reiterates over If, Else If, and Else statements mentioned in previous videos. If my videos made complete sense to you, then this may not be a necessary watch.
+1. [C++ Crash Course | If Statement & Conditions | Video 5 by Me](https://youtu.be/oQjfKr8WIyY)
+1. [Learn C++ With Me #6 - Comparison Operators by Tech With Tim](https://www.youtube.com/watch?v=taBgBbXRadc)
+* Reiterates topics covered in video 1. If my video made complete sense to you, then this may not be a necessary watch.
+1. [C++ Crash Course | Logical Operators | Video 6 by Me](https://youtu.be/TufHeknHalE)
+1. [C++ Crash Course | Logical Operators Pt2 | Video 1 by Me](https://youtu.be/IdhdU1X43aA)
+1. [Learn C++ With Me #1 - Logical Operators by Tech With Tim](https://www.youtube.com/watch?v=F__aAx-3HOY)
+* Reiterates topics covered in video 3 & 4. If my videos made complete sense to you, then this may not be a necessary watch.
+1. [Learn C++ With Me #8 - If, Else If, Else by Tech With Tim](https://www.youtube.com/watch?v=Zkr0aAdD1Ww)
+* Reiterates over If, Else If, and Else statements mentioned in previous videos. If my videos made complete sense to you, then this may not be a necessary watch.
 
 ## While Loops
 
-5. [C++ Crash Course | While Loops | Video 9 by Me](https://www.youtube.com/watch?v=kZUh4dR93fQ)
-5. [C++ FOR BEGINNERS (2020) - What is while loop, What is infinite loop PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=qGKCnTq8CqQ)
-5. [C++ FOR BEGINNERS (2020) - What is while loop, How to count digits of a number PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=jWISn6pk-XU)
-5. [C++ FOR BEGINNERS (2020) What is while loop, How to reverse digits of a number PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=bVBJoxrhgEM)
+1. [C++ Crash Course | While Loops | Video 9 by Me](https://www.youtube.com/watch?v=kZUh4dR93fQ)
+1. [C++ FOR BEGINNERS (2020) - What is while loop, What is infinite loop PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=qGKCnTq8CqQ)
+1. [C++ FOR BEGINNERS (2020) - What is while loop, How to count digits of a number PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=jWISn6pk-XU)
+1. [C++ FOR BEGINNERS (2020) What is while loop, How to reverse digits of a number PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=bVBJoxrhgEM)
 
 ## Additional Resources Section 2
 
@@ -102,20 +102,20 @@ These are apart of the same series of videos
 
 ## For Loops & Arrays
 
-6. [C++ Crash Course | For Loops | Video 10 by Me](https://youtu.be/SEl-boZTkGg)
-6. [C++ FOR BEGINNERS (2020) - For loop, How to calculate factorial of a number PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=V3w8PiJ8Zg0)
-6. [C++ Crash Course | For Loops & Arrays | Video 11 by Me](https://youtu.be/LcOgAFPzfEY)
-6. [Learn C++ With Me #9 - Arrays by Tech With Tim](https://www.youtube.com/watch?v=1FVBeLD_FdE)
-6. [C++ Crash Course | For Loops & Arrays Pt2 | Video 12 by Me](https://youtu.be/BkWABRSACc4)
+1. [C++ Crash Course | For Loops | Video 10 by Me](https://youtu.be/SEl-boZTkGg)
+1. [C++ FOR BEGINNERS (2020) - For loop, How to calculate factorial of a number PROGRAMMING TUTORIAL by CodeBeauty](https://www.youtube.com/watch?v=V3w8PiJ8Zg0)
+1. [C++ Crash Course | For Loops & Arrays | Video 11 by Me](https://youtu.be/LcOgAFPzfEY)
+1. [Learn C++ With Me #9 - Arrays by Tech With Tim](https://www.youtube.com/watch?v=1FVBeLD_FdE)
+1. [C++ Crash Course | For Loops & Arrays Pt2 | Video 12 by Me](https://youtu.be/BkWABRSACc4)
 
 ## Functions
 
-7. [C++ Crash Course | Functions Pt1 | Video 13 by Me](https://youtu.be/1sOYkrcNgsU)
-7. [C++ Crash Course | Functions Pt2 | Video 14 by Me](https://youtu.be/61bmYPZ61EM)
-7. [C++ FUNCTIONS (2020) - What are functions? PROGRAMMING TUTORIAL by CodingBeauty](https://youtu.be/BGmDRQzY4CA)
-7. [C++ FUNCTIONS (2020) - What is function parameter/argument (multiple, default) PROGRAMMING TUTORIAL by CodingBeauty](https://youtu.be/8rxQsVRdVjI)
-7. [C++ FUNCTIONS (2020) - Functions return statement, How to check prime number PROGRAMMING TUTORIAL by CodingBeauty](https://www.youtube.com/watch?v=WFcw9Vfs1WU)
-7. [C++ FUNCTIONS (2020) - What is function overloading? PROGRAMMING TUTORIAL by CodingBeauty](https://youtu.be/5OUttXvf6hw)
+1. [C++ Crash Course | Functions Pt1 | Video 13 by Me](https://youtu.be/1sOYkrcNgsU)
+1. [C++ Crash Course | Functions Pt2 | Video 14 by Me](https://youtu.be/61bmYPZ61EM)
+1. [C++ FUNCTIONS (2020) - What are functions? PROGRAMMING TUTORIAL by CodingBeauty](https://youtu.be/BGmDRQzY4CA)
+1. [C++ FUNCTIONS (2020) - What is function parameter/argument (multiple, default) PROGRAMMING TUTORIAL by CodingBeauty](https://youtu.be/8rxQsVRdVjI)
+1. [C++ FUNCTIONS (2020) - Functions return statement, How to check prime number PROGRAMMING TUTORIAL by CodingBeauty](https://www.youtube.com/watch?v=WFcw9Vfs1WU)
+1. [C++ FUNCTIONS (2020) - What is function overloading? PROGRAMMING TUTORIAL by CodingBeauty](https://youtu.be/5OUttXvf6hw)
 
 
 ## Additional Resources Section 3
