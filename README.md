@@ -16,42 +16,41 @@ After you have watched both of these videos, continue with the course down below
 
 1. [C++ Crash Course | Variables | Video 1 by Me]()
 1. [Data Types and Variables by Tech With Tim](https://www.youtube.com/watch?v=zgutFVxOlTY)
-* Reiterates topics I covered and even more.
+
 
 
 ## Standard Input & Output
 
 1. [C++ Crash Course | Input / Output | Video 2 by Me](https://youtu.be/aGqZtdxTRxE)
 1. [C++ Input and Output by Shmeowlex](https://www.youtube.com/watch?v=42n9YyKYJMo)
-* Reiterates topics covered in video 1. If my video made complete sense to you, then this may not be a necessary watch.
+
 
 ## Arithmetic
 
 1. [C++ Crash Course | Arithmetic Pt1 | Video 3 by Me](https://youtu.be/uxPUqN52OCQ)
 1. [C++ Crash Course | Arithmetic Pt2 | Video 4 by Me](https://youtu.be/8Y-RdVTyuHc)
 1. [Learn C++ With Me #5 - Arithmetic Operators by Tech With Tim](https://www.youtube.com/watch?v=CWtiqVQp8uk)
-* Reiterates topics covered in video 1 & 2. If my video made complete sense to you, then this may not be a necessary watch.
 1. [Learn Programming with C++ - Modulus Operator by Velcode](https://www.youtube.com/watch?v=oN_3fN3KMRA&list=PLkjbuaHoEQvi41bJqe4GjsDLSTaNKkvn2&index=22)
-* Good watch If you are still unsure how modular division works.
+
 
 ## Additional Resources Section 1
 
 Maybe you didn't like some of the videos offered throughout section 1 or you still feels as though you don't understand certain topics. Well here
 are some additional videos I found relating to topics in section 1. 
 
-[Variables in C++ by Neso Academy](https://youtu.be/fZbSl58orNs)
-[C++ FOR BEGINNERS (2020) - Variables, Data Types, Overflow, Sizeof PROGRAMMING TUTORIAL by CodingBeauty](https://youtu.be/solufpKPDwY)
-[C++ Programming Tutorial 6 - Variable Declaration and Initialization by Velcode](https://youtu.be/vSTesJdgRCU)
+* [Variables in C++ by Neso Academy](https://youtu.be/fZbSl58orNs)
+* [C++ FOR BEGINNERS (2020) - Variables, Data Types, Overflow, Sizeof PROGRAMMING TUTORIAL by CodingBeauty](https://youtu.be/solufpKPDwY)
+* [C++ Programming Tutorial 6 - Variable Declaration and Initialization by Velcode](https://youtu.be/vSTesJdgRCU)
 
 These are apart of the same series of videos
 * [Learn Programming with C++ - Primitives by Velcode](https://youtu.be/CTMwLViCCyA)
 * [Learn Programming with C++ - Primitives in Code by Velcode](https://youtu.be/uFFST4blRJY)
 * [Learn Programming with C++ - Declaration & Definition by Velcode](https://youtu.be/NUylYxZOeZw)
 
-[How to accept user input in C++ by Bro Code](https://youtu.be/imiIhu9u670)
-[C++ Basic Input/Output Article](https://www.programiz.com/cpp-programming/input-output)
-[Learn Programming with C++ - Arithmetic Operators by Velcode](https://youtu.be/3wXLiLAvYYo)
-[C++ arithmetic and quick math #5 by Bro Code](https://youtu.be/tUPNN_4md_U)
+* [How to accept user input in C++ by Bro Code](https://youtu.be/imiIhu9u670)
+* [C++ Basic Input/Output Article](https://www.programiz.com/cpp-programming/input-output)
+* [Learn Programming with C++ - Arithmetic Operators by Velcode](https://youtu.be/3wXLiLAvYYo)
+* [C++ arithmetic and quick math #5 by Bro Code](https://youtu.be/tUPNN_4md_U)
 
 
 
@@ -60,13 +59,11 @@ These are apart of the same series of videos
 ## If, Else If, Else,  & Conditionals 
 1. [C++ Crash Course | If Statement & Conditions | Video 5 by Me](https://youtu.be/oQjfKr8WIyY)
 1. [Learn C++ With Me #6 - Comparison Operators by Tech With Tim](https://www.youtube.com/watch?v=taBgBbXRadc)
-* Reiterates topics covered in video 1. If my video made complete sense to you, then this may not be a necessary watch.
 1. [C++ Crash Course | Logical Operators | Video 6 by Me](https://youtu.be/TufHeknHalE)
 1. [C++ Crash Course | Logical Operators Pt2 | Video 1 by Me](https://youtu.be/IdhdU1X43aA)
 1. [Learn C++ With Me #1 - Logical Operators by Tech With Tim](https://www.youtube.com/watch?v=F__aAx-3HOY)
-* Reiterates topics covered in video 3 & 4. If my videos made complete sense to you, then this may not be a necessary watch.
 1. [Learn C++ With Me #8 - If, Else If, Else by Tech With Tim](https://www.youtube.com/watch?v=Zkr0aAdD1Ww)
-* Reiterates over If, Else If, and Else statements mentioned in previous videos. If my videos made complete sense to you, then this may not be a necessary watch.
+
 
 ## While Loops
 
@@ -80,9 +77,9 @@ These are apart of the same series of videos
 Maybe you didn't like some of the videos offered throughout section 2 or you still feels as though you don't understand certain topics. Well here
 are some additional videos I found relating to topics in section 2. 
 
-[C++ FOR BEGINNERS (2020) - Operators in C++ PROGRAMMING TUTORIAL by CodeBeauty](https://youtu.be/RP3BWoep69U)
-[C++ FOR BEGINNERS (2020) - If/else statement, check odd/even number, flowchart PROGRAMMING TUTORIAL by CodeBeauty](https://youtu.be/N42EzLQ4gDE)
-[C++ FOR BEGINNERS (2020) - Nested if/else, Determine the type of a triangle PROGRAMMING TUTORIAL by Code Beauty](https://youtu.be/YQdpZYRmzmk)
+* [C++ FOR BEGINNERS (2020) - Operators in C++ PROGRAMMING TUTORIAL by CodeBeauty](https://youtu.be/RP3BWoep69U)
+* [C++ FOR BEGINNERS (2020) - If/else statement, check odd/even number, flowchart PROGRAMMING TUTORIAL by CodeBeauty](https://youtu.be/N42EzLQ4gDE)
+* [C++ FOR BEGINNERS (2020) - Nested if/else, Determine the type of a triangle PROGRAMMING TUTORIAL by Code Beauty](https://youtu.be/YQdpZYRmzmk)
 
 These are apart of the same series of videos
 * [Learn Programming with C++ - Relational Operators by Velcode](https://youtu.be/N-4Uo2cxQWE)
@@ -93,9 +90,9 @@ These are apart of the same series of videos
 * [Learn Programming with C++ - If Statement by Velcode](https://youtu.be/jWANp8hqDdY)
 * [Learn Programming with C++ - Nested Ifs by Velcode](https://youtu.be/gGTVLrqinV4)
 
-[C++ Relational and Logical Operators Article](https://www.programiz.com/cpp-programming/relational-logical-operators#:~:text=C%2B%2B%20Relational%20Operators,%2C%20%3E%20is%20a%20relational%20operator)
-[While Loops | C++ | Tutorial 20 by Giraffe Academy](https://youtu.be/25JxBoPwmkQ)
-[Building a Guessing Game | C++ | Tutorial 21 by Giraffe Academy ](https://youtu.be/xJ4jhhOtyAk)
+* [C++ Relational and Logical Operators Article](https://www.programiz.com/cpp-programming/relational-logical-operators#:~:text=C%2B%2B%20Relational%20Operators,%2C%20%3E%20is%20a%20relational%20operator)
+* [While Loops | C++ | Tutorial 20 by Giraffe Academy](https://youtu.be/25JxBoPwmkQ)
+* [Building a Guessing Game | C++ | Tutorial 21 by Giraffe Academy ](https://youtu.be/xJ4jhhOtyAk)
 
 
 # Section 3: Functions, Arrays, For Loops
@@ -123,13 +120,13 @@ These are apart of the same series of videos
 Maybe you didn't like some of the videos offered throughout section 3 or you still feels as though you don't understand certain topics. Well here
 are some additional videos I found relating to topics in section 3. 
 
-[For Loops | C++ | Tutorial 22 by Giraffe Academy](https://youtu.be/3t2I9HsSWSc)
-[The 'for' Statement in C++ by Neso Academy](https://youtu.be/yS8DUrQy_ow)
-[C++ FOR BEGINNERS (2020) - What is nested for loop, How to Multiplication table PROGRAMMING TUTORIAL by CodeBeauty](https://youtu.be/dU61pfWBGFY)
-[DATA STRUCTURES - How to work with arrays? (for beginners) - Arrays explained in 30 minutes! by CodeBeauty](https://youtu.be/T76E09hnEuo)
+* [For Loops | C++ | Tutorial 22 by Giraffe Academy](https://youtu.be/3t2I9HsSWSc)
+* [The 'for' Statement in C++ by Neso Academy](https://youtu.be/yS8DUrQy_ow)
+* [C++ FOR BEGINNERS (2020) - What is nested for loop, How to Multiplication table PROGRAMMING TUTORIAL by CodeBeauty](https://youtu.be/dU61pfWBGFY)
+* [DATA STRUCTURES - How to work with arrays? (for beginners) - Arrays explained in 30 minutes! by CodeBeauty](https://youtu.be/T76E09hnEuo)
 
 Past the 16:30 timestamp of this video are topics which we haven't and will not disuss 
-[Learn C++ With Me #20 - Functions by Tech With Tim](https://youtu.be/C83tPpvxIJA)
+* [Learn C++ With Me #20 - Functions by Tech With Tim](https://youtu.be/C83tPpvxIJA)
 
 
 
