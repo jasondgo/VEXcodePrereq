@@ -16,7 +16,7 @@ After you have watched both of these videos, continue with the course down below
 
 ## Variables
 
-1. [C++ Crash Course | Variables | Video 1 by Me]()
+1. [C++ Crash Course | Variables | Video 1 by Me](https://youtu.be/lW1DXZwVsi8)
 1. [Data Types and Variables by Tech With Tim](https://www.youtube.com/watch?v=zgutFVxOlTY)
 
 
@@ -36,7 +36,7 @@ After you have watched both of these videos, continue with the course down below
 
 
 ## Problems to Complete from Section1ProblemSet
-
+** Videos NOT OUT yet **
 Complete problems 1 - 12. If you get stuck, checkout the corresponding youtube videos over these problems.
 
 Problem 29 is a challenge problem. Follow along with the video to gain insight into problem solving methods.
@@ -83,7 +83,7 @@ These are apart of the same series of videos
 
 
 ## Problems to Complete from Section2ProblemSet
-
+** Videos NOT OUT yet **
 Complete problems 1 - 5, 8, 10, 11, 13 - 16, 18 - 21. If you get stuck, checkout the corresponding youtube videos over these problems.
 
 Problem 22 is a challenge problem. Follow along with the video to gain insight into problem solving methods.
@@ -133,7 +133,7 @@ These are apart of the same series of videos
 
 
 ## Problems to Complete from Section3ProblemSet
-
+** Videos NOT OUT yet **
 Complete problems 1 - 9, 11 - 15, 16 - 18, and 20. If you get stuck, checkout the corresponding youtube videos over these problems.
 
 Problem 25 is a challenge problem. Follow along with the video to gain insight into problem solving methods.
@@ -152,11 +152,40 @@ Past the 16:30 timestamp of this video are topics which we haven't and will not 
 * [Learn C++ With Me #20 - Functions by Tech With Tim](https://youtu.be/C83tPpvxIJA)
 
 
-
-
-# Section 4: OOP (Object Oriented Programming) & Enums
+# Section 4: OOP (Object Oriented Programming)
 
 ## OOP
 
-## Enums
+1. [C++ Crash Course | Classes Pt1 | Video 15 by Me](https://youtu.be/a3mgnod6EI0)
+1. [Classes & Objects | C++ | Tutorial 27 by Giraffe Academy](https://youtu.be/wGyCsWXVD9E)
+1. [C++ Crash Course | Classes Pt2 | Video 16 by Me](https://youtu.be/QxnTpMFMyvg)
+1. [Constructor Functions | C++ | Tutorial 28 by Giraffe Academy](https://youtu.be/RMI0yaqScEw)
+1. [C++ Crash Course | Classes Pt3 | Video 17 by Me](https://youtu.be/oLiuE9-TqEE)
+1. [Public And Private Access Specifiers | C++ Tutorial by Portfolio Courses](https://youtu.be/pnhGOznp0UM)
+1. [C++ OOP - What is encapsulation in programming? by CodeBeauty](https://youtu.be/a8ZB-TPB6EU)
+1. [C++ Crash Course | Classes Pt4 | Video 18 by Me ](https://youtu.be/ItVdSMJiIA0)
+1. [C++ OOP - What is inheritance in programming? by CodeBeauty](https://www.youtube.com/watch?v=-W-TYjL0aFE)
+
+## Additional Resources Section 4
+
+Maybe you didn't like some of the videos offered throughout section 4 or you still feels as though you don't understand certain topics. Well here
+are some additional videos I found relating to topics in section 4.
+
+* [C++ OOP - Introduction to classes and objects for beginners by CodeBeauty](https://youtu.be/iVLQeWbgbXs)
+* [CLASSES in C++ by The Cherno](https://www.youtube.com/watch?v=2BP8NhxjrO0)
+* [How to Write a C++ Class by The Cherno](https://www.youtube.com/watch?v=3dHBFBw13E0)
+* [Inheritance in C++ by The Cherno](https://www.youtube.com/watch?v=X8nYM8wdNRE)
+* [C++ OOP (2020) - What are constructors and class methods? How to use them? by CodeBeauty](https://www.youtube.com/watch?v=1LGJSRFrxqQ)
+* [Visibility in C++ by The Cherno](https://www.youtube.com/watch?v=6OVQ8nh3KP0)
+* [Introduction To Classes And Objects | C++ Tutorial by Portfolio Courses](https://www.youtube.com/watch?v=W1CjYKmTB-c)
+* [Constructor Basics | C++ Tutorial by Portfolio Courses](https://www.youtube.com/watch?v=bnyveJ17lao)
+* [Constructors in C++ by The Cherno](https://www.youtube.com/watch?v=FXhALMsHwEY)
+* [C++ Classes & Objects 🧍 by BroCode](https://www.youtube.com/watch?v=_8H2n0nDfd4&list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on&index=58)
+
+
+## Problems to Complete from Section4ProblemSet
+
+** Videos NOT OUT yet **
+
+I strongly recommend that you solve each problem included in the Section4ProblemSet PDF. The last two problems, which deal with inheritance, cover a topic I have not covered yet. To tackle these problems, please locate the corresponding videos on my YouTube channel. Additionally, please note that the Section4ProblemSet does not provide a solution folder. Therefore, you will need to find the videos that match those specific questions to obtain a solution.
 
