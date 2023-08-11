@@ -6,7 +6,7 @@ This crash course will make use of public/free videos with a variety of correspo
 
 Above are a couple of PDF files named Section1ProblemSet, Section2ProblemSet, and Section3ProblemSet. As the name of each of these files implies, each PDF holds a bunch of short programming problems that involve topics relating to the specified section. For example, Section1ProblemSet will have short problems relating to topics in Section 1, which include variables, input and output, and arithmetic. You will also see a set of folders named Section1Solutions, Section2Solutions, and Section3Solutions. These folders hold the answer code for each individual problem. The solution included for each problem is just one of many solutions, meaning it is possible for your program to look different from the solution and still work properly. In the course below, I will specify which short problems you have to complete for each section. Problems not listed down below that are in a problem set PDF are there for extra practice. There will be video walkthroughs for some of these listed problems in case you have no clue where to get started.
 
-Click [HERE]() to get started installing the C++ extension to VScode. 
+Click [HERE](https://youtu.be/q3Z0oFB7TIU) to get started installing the C++ extension and compiler to VScode. 
 
 Click [HERE](https://www.youtube.com/watch?v=ckbfOdMhZls&list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3&index=2) to get a basic understanding of the programming stucture in C++.
 
