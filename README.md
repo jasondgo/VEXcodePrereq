@@ -148,7 +148,7 @@ are some additional videos I found relating to topics in section 3.
 * [C++ FOR BEGINNERS (2020) - What is nested for loop, How to Multiplication table PROGRAMMING TUTORIAL by CodeBeauty](https://youtu.be/dU61pfWBGFY)
 * [DATA STRUCTURES - How to work with arrays? (for beginners) - Arrays explained in 30 minutes! by CodeBeauty](https://youtu.be/T76E09hnEuo)
 
-Past the 16:30 timestamp of this video are topics which we haven't and will not disuss 
+Past the 16:30 timestamp of this video are topics which we haven't and will not discuss 
 * [Learn C++ With Me #20 - Functions by Tech With Tim](https://youtu.be/C83tPpvxIJA)
 
 
